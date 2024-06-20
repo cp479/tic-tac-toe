@@ -1,4 +1,17 @@
 # tic-tac-toe
+<h1>V3.1</h1>
+<ul>
+<li> Fixed JSS typos
+</li>
+</ul>
+Note: Restart button won't clear the board for some reason. Another challenge is to enter player names when starting a new game/restarting again. 
+
+<h1>V3.0</h1>
+<ul>
+<li> Add JS functions
+</li>
+</ul>
+
 <h1>V2.2.1</h1>
 <ul>
 <li> Removed unnecessary HTML
