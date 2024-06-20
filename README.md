@@ -1,4 +1,22 @@
 # tic-tac-toe
+<h1>V2.2.1</h1>
+<ul>
+<li> Removed unnecessary HTML
+</li>
+</ul>
+
+<h1>V2.2</h1>
+<ul>
+<li> Style some CSS
+</li>
+</ul>
+
+<h1>V2.1</h1>
+<ul>
+<li> Add html and css foundation
+</li>
+</ul>
+
 <h1>V1.1</h1>
 <ul>
 <li> Add html, css, jss file
